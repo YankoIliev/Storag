@@ -1,4 +1,4 @@
 package com.Shopping.cars.Shopping.cars.model;
 
-public class GitDemo {
+public class GidDemo2 {
 }
